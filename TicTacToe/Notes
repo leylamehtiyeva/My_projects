@@ -1,0 +1,7 @@
+value - the current value in the cell: 0 - the cell is free; 1 - there is a cross; 2 - worth a zero.
+
+FREE_CELL = 0 # free cell
+HUMAN_X = 1 # cross (player - human)
+COMPUTER_O = 2 # zero (player - computer)
+
+The computer sets its moves randomly
