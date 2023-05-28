@@ -1,0 +1,2 @@
+The number n is given as input to the program. 
+The program returns the specified line of Pascal's triangle as a list (line numbering starts from zero).
