@@ -1,2 +1,5 @@
-The number n is given as input to the program. 
-The program returns the specified line of Pascal's triangle as a list (line numbering starts from zero).
+1) The number n is given as input to the program. 
+  The program returns the specified line of Pascal's triangle as a list (line numbering starts from zero).
+  
+  
+2) The input to the program is a natural number n. The program prints the first n lines of Pascal's triangle.
