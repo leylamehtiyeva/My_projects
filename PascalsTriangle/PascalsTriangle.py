@@ -1,4 +1,4 @@
-N = 0
+N = int(input())
 P = []
 
 for i in range(N+1):
