@@ -1,0 +1,24 @@
+Tasks Conditions:
+
+1) Above Average
+The program should output n numbers for each row, 
+the number of matrix elements greater than the arithmetic mean of the given row.
+
+2) Matrix Trace
+The program should output one number — the trace of the given matrix.
+
+3) Matrix 1
+A program that first reads the elements of a matrix one by one, then outputs them as a matrix.
+
+4) Matrix 2
+A program that reads the elements of a matrix one by one, outputs them as a matrix, 
+outputs an empty row, and again the same matrix, but this time swapping rows with columns: 
+the first row is output as the first column, and so on.
+
+5) Maximum in area
+The program should display one number - the maximum element in the shaded area of the square matrix.
+In our problem, the shaded part is the left and bottom quarter of the matrix, 
+where the quarter is the parts of the matrix formed by the intersection of the main and secondary diagonals
+
+6) Quarter sums
+A program that calculates the sum of the elements: the top quarter; right quarter; lower quarter; left quarter.
